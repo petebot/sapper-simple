@@ -1,0 +1,101 @@
+@import url("https://fast.fonts.net/t/1.css?apiType=css&projectid=260ebec7-92b3-4ebb-ad80-891d25ee1f5b");
+
+@font-face {
+	font-family: "Aurelia W05_n4";
+	src: url("Fonts/dbd9372b-bb61-4c72-bc59-b9b7c4684bf4.eot?#iefix") format("eot")
+}
+
+@font-face {
+	font-family: "Aurelia W05";
+	src: url("Fonts/dbd9372b-bb61-4c72-bc59-b9b7c4684bf4.eot?#iefix");
+	src: url("Fonts/dbd9372b-bb61-4c72-bc59-b9b7c4684bf4.eot?#iefix") format("eot"), url("Fonts/0b0bb637-d9d9-452b-a417-a4a8584d5c0f.woff2") format("woff2"), url("Fonts/53c1520d-5a07-4f1f-b910-0bfad68075e0.woff") format("woff"), url("Fonts/2e62eeb3-900c-420b-b058-581895d7656a.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Aurelia W05_i4";
+	src: url("Fonts/1467063d-221d-45d7-8aa5-cb447fac7003.eot?#iefix") format("eot")
+}
+
+@font-face {
+	font-family: "Aurelia W05";
+	src: url("Fonts/1467063d-221d-45d7-8aa5-cb447fac7003.eot?#iefix");
+	src: url("Fonts/1467063d-221d-45d7-8aa5-cb447fac7003.eot?#iefix") format("eot"), url("Fonts/53245d9d-b9c9-40c7-83fe-560d903bf12c.woff2") format("woff2"), url("Fonts/c5806d44-1b0a-4594-9a29-da6a2a7d3346.woff") format("woff"), url("Fonts/24f8508d-7bdb-4ad9-a894-c233183f0294.ttf") format("truetype");
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Aurelia W05_n7";
+	src: url("Fonts/075d329c-d8ad-4559-877f-492757ed28cc.eot?#iefix") format("eot")
+}
+
+@font-face {
+	font-family: "Aurelia W05";
+	src: url("Fonts/075d329c-d8ad-4559-877f-492757ed28cc.eot?#iefix");
+	src: url("Fonts/075d329c-d8ad-4559-877f-492757ed28cc.eot?#iefix") format("eot"), url("Fonts/1eae41d2-db5d-494a-8a00-08f13e1da36a.woff2") format("woff2"), url("Fonts/6071c819-e191-4301-b04d-db56944f0365.woff") format("woff"), url("Fonts/9517d6c2-6f14-43aa-abfe-b3e1e3b1d256.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "ITC Avant Garde Gothic W05_n5";
+	src: url("Fonts/b98b5e89-30d9-45d8-821b-10d216f82c08.eot?#iefix") format("eot")
+}
+
+@font-face {
+	font-family: "ITC Avant Garde Gothic W05";
+	src: url("Fonts/b98b5e89-30d9-45d8-821b-10d216f82c08.eot?#iefix");
+	src: url("Fonts/b98b5e89-30d9-45d8-821b-10d216f82c08.eot?#iefix") format("eot"), url("Fonts/65720817-fb85-457d-a855-e2a399993d65.woff2") format("woff2"), url("Fonts/7c804db8-cc4f-4da5-b346-da962ab1376e.woff") format("woff"), url("Fonts/72ff8cb4-cf7e-4358-89fb-7e9299a46dbf.ttf") format("truetype");
+	font-weight: 500;
+	font-style: normal;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	background: #c4c4c4;
+}
+body {
+	margin: 0;
+	font-family: 'Aurelia W05',
+	serif;
+	font-size: 18px;
+	line-height: 1.5;
+	color: #2d2d2d;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'ITC Avant Garde Gothic W05',
+	sans-serif;
+	text-transform: uppercase;
+	margin: 0 0 0.5em 0;
+	font-weight: 500;
+	line-height: 1.2;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+a {
+	color: #2b9e8d;
+}
+
+code {
+	font-family: menlo, inconsolata, monospace;
+	font-size: calc(1em - 2px);
+	color: #555;
+	background-color: #f0f0f0;
+	padding: 0.2em 0.4em;
+	border-radius: 2px;
+}
+
+@media (min-width: 400px) {
+	body {
+		font-size: 18px;
+	}
+}
